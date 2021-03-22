@@ -1,0 +1,16 @@
+current directory: /home/optimum/Documents/Website_github_CV/vendor/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20210322-5674-oflfy.rb extconf.rb
+creating Makefile
+
+current directory: /home/optimum/Documents/Website_github_CV/vendor/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/optimum/Documents/Website_github_CV/vendor/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/optimum/Documents/Website_github_CV/vendor/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210322-5674-c78pd2
