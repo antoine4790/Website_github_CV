@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 git_status.txt
+.vs/
+
+vendor/
